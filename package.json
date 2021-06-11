@@ -34,7 +34,7 @@
   "dependencies": {
     "backoff": "2.5.0",
     "html-entities": "1.2.1",
-    "log": "1.4.0",
+    "log": "6.0.0",
     "memoizee": "0.4.14",
     "request": "2.88.2"
   },
